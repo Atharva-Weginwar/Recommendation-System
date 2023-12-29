@@ -11,3 +11,5 @@ Ideal for new users or limited personalized data.
 2. Collaborative Filtering
 Recommends items based on user preferences.
 Utilizes user-item interaction data.
+
+The dataset used for Recommendation system is: https://www.kaggle.com/datasets/irvifa/amazon-product-reviews?resource=download
